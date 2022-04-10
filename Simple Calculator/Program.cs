@@ -17,7 +17,9 @@ namespace Simple_Calculator
                 ConsoleWriter consoleWriter = new ConsoleWriter();
                 double addictionResult = SimpleCalculator.Addiction(num1, num2);
                 double substractionResult = SimpleCalculator.Substraction(num1, num2);
-                consoleWriter.Text($"Addiction = {addictionResult}, Substraction = {substractionResult}");
+                double divisionResult = SimpleCalculator.Division(num1, num2);
+                double multiplicationResult = SimpleCalculator.Multiplication(num1, num2);
+                consoleWriter.Text($"Addiction = {addictionResult}, Substraction = {substractionResult}, Division = {divisionResult}, Multiplication = {multiplicationResult}.");
                 Console.ReadLine();
             }
             public class SimpleCalculator
@@ -32,12 +34,12 @@ namespace Simple_Calculator
                     return num1 - num2;
                 }
 
-                public double Division(double num1, double num2)
+                public static double Division(double num1, double num2)
                 {
                     return num1 / num2;
                 }
 
-                public double Multiplication(double num1, double num2)
+                public static double Multiplication(double num1, double num2)
                 {
                     return num1 * num2;
                 }
