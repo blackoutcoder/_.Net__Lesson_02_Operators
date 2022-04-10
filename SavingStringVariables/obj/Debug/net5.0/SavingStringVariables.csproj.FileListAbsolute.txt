@@ -1,0 +1,16 @@
+C:\Users\romka\source\repos\_.Net__Lesson_02_Operators\SavingStringVariables\bin\Debug\net5.0\SavingStringVariables.exe
+C:\Users\romka\source\repos\_.Net__Lesson_02_Operators\SavingStringVariables\bin\Debug\net5.0\SavingStringVariables.deps.json
+C:\Users\romka\source\repos\_.Net__Lesson_02_Operators\SavingStringVariables\bin\Debug\net5.0\SavingStringVariables.runtimeconfig.json
+C:\Users\romka\source\repos\_.Net__Lesson_02_Operators\SavingStringVariables\bin\Debug\net5.0\SavingStringVariables.runtimeconfig.dev.json
+C:\Users\romka\source\repos\_.Net__Lesson_02_Operators\SavingStringVariables\bin\Debug\net5.0\SavingStringVariables.dll
+C:\Users\romka\source\repos\_.Net__Lesson_02_Operators\SavingStringVariables\bin\Debug\net5.0\SavingStringVariables.pdb
+C:\Users\romka\source\repos\_.Net__Lesson_02_Operators\SavingStringVariables\obj\Debug\net5.0\SavingStringVariables.csproj.AssemblyReference.cache
+C:\Users\romka\source\repos\_.Net__Lesson_02_Operators\SavingStringVariables\obj\Debug\net5.0\SavingStringVariables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\romka\source\repos\_.Net__Lesson_02_Operators\SavingStringVariables\obj\Debug\net5.0\SavingStringVariables.AssemblyInfoInputs.cache
+C:\Users\romka\source\repos\_.Net__Lesson_02_Operators\SavingStringVariables\obj\Debug\net5.0\SavingStringVariables.AssemblyInfo.cs
+C:\Users\romka\source\repos\_.Net__Lesson_02_Operators\SavingStringVariables\obj\Debug\net5.0\SavingStringVariables.csproj.CoreCompileInputs.cache
+C:\Users\romka\source\repos\_.Net__Lesson_02_Operators\SavingStringVariables\obj\Debug\net5.0\SavingStringVariables.dll
+C:\Users\romka\source\repos\_.Net__Lesson_02_Operators\SavingStringVariables\obj\Debug\net5.0\refint\SavingStringVariables.dll
+C:\Users\romka\source\repos\_.Net__Lesson_02_Operators\SavingStringVariables\obj\Debug\net5.0\SavingStringVariables.pdb
+C:\Users\romka\source\repos\_.Net__Lesson_02_Operators\SavingStringVariables\obj\Debug\net5.0\SavingStringVariables.genruntimeconfig.cache
+C:\Users\romka\source\repos\_.Net__Lesson_02_Operators\SavingStringVariables\obj\Debug\net5.0\ref\SavingStringVariables.dll

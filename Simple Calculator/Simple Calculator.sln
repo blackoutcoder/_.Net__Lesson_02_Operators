@@ -5,7 +5,9 @@ VisualStudioVersion = 17.1.32210.238
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Simple Calculator", "Simple Calculator.csproj", "{92A743AE-9858-490C-9902-A58E784CE670}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediumNumber", "..\MediumNumber\MediumNumber.csproj", "{5BAC32AC-7A5C-463B-8BC4-85F496410345}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MediumNumber", "..\MediumNumber\MediumNumber.csproj", "{5BAC32AC-7A5C-463B-8BC4-85F496410345}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SavingStringVariables", "..\SavingStringVariables\SavingStringVariables.csproj", "{382CF908-25FF-4917-A8BC-88B4DC335498}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{5BAC32AC-7A5C-463B-8BC4-85F496410345}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5BAC32AC-7A5C-463B-8BC4-85F496410345}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5BAC32AC-7A5C-463B-8BC4-85F496410345}.Release|Any CPU.Build.0 = Release|Any CPU
+		{382CF908-25FF-4917-A8BC-88B4DC335498}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{382CF908-25FF-4917-A8BC-88B4DC335498}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{382CF908-25FF-4917-A8BC-88B4DC335498}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{382CF908-25FF-4917-A8BC-88B4DC335498}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "SavingStringVariables/1.0.0": {
+        "runtime": {
+          "SavingStringVariables.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SavingStringVariables/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
