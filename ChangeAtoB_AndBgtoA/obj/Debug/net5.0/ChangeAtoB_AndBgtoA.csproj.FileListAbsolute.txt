@@ -1,0 +1,16 @@
+C:\Users\romka\source\repos\_.Net__Lesson_02_Operators\ChangeAtoB_AndBgtoA\bin\Debug\net5.0\ChangeAtoB_AndBgtoA.exe
+C:\Users\romka\source\repos\_.Net__Lesson_02_Operators\ChangeAtoB_AndBgtoA\bin\Debug\net5.0\ChangeAtoB_AndBgtoA.deps.json
+C:\Users\romka\source\repos\_.Net__Lesson_02_Operators\ChangeAtoB_AndBgtoA\bin\Debug\net5.0\ChangeAtoB_AndBgtoA.runtimeconfig.json
+C:\Users\romka\source\repos\_.Net__Lesson_02_Operators\ChangeAtoB_AndBgtoA\bin\Debug\net5.0\ChangeAtoB_AndBgtoA.runtimeconfig.dev.json
+C:\Users\romka\source\repos\_.Net__Lesson_02_Operators\ChangeAtoB_AndBgtoA\bin\Debug\net5.0\ChangeAtoB_AndBgtoA.dll
+C:\Users\romka\source\repos\_.Net__Lesson_02_Operators\ChangeAtoB_AndBgtoA\bin\Debug\net5.0\ChangeAtoB_AndBgtoA.pdb
+C:\Users\romka\source\repos\_.Net__Lesson_02_Operators\ChangeAtoB_AndBgtoA\obj\Debug\net5.0\ChangeAtoB_AndBgtoA.csproj.AssemblyReference.cache
+C:\Users\romka\source\repos\_.Net__Lesson_02_Operators\ChangeAtoB_AndBgtoA\obj\Debug\net5.0\ChangeAtoB_AndBgtoA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\romka\source\repos\_.Net__Lesson_02_Operators\ChangeAtoB_AndBgtoA\obj\Debug\net5.0\ChangeAtoB_AndBgtoA.AssemblyInfoInputs.cache
+C:\Users\romka\source\repos\_.Net__Lesson_02_Operators\ChangeAtoB_AndBgtoA\obj\Debug\net5.0\ChangeAtoB_AndBgtoA.AssemblyInfo.cs
+C:\Users\romka\source\repos\_.Net__Lesson_02_Operators\ChangeAtoB_AndBgtoA\obj\Debug\net5.0\ChangeAtoB_AndBgtoA.csproj.CoreCompileInputs.cache
+C:\Users\romka\source\repos\_.Net__Lesson_02_Operators\ChangeAtoB_AndBgtoA\obj\Debug\net5.0\ChangeAtoB_AndBgtoA.dll
+C:\Users\romka\source\repos\_.Net__Lesson_02_Operators\ChangeAtoB_AndBgtoA\obj\Debug\net5.0\refint\ChangeAtoB_AndBgtoA.dll
+C:\Users\romka\source\repos\_.Net__Lesson_02_Operators\ChangeAtoB_AndBgtoA\obj\Debug\net5.0\ChangeAtoB_AndBgtoA.pdb
+C:\Users\romka\source\repos\_.Net__Lesson_02_Operators\ChangeAtoB_AndBgtoA\obj\Debug\net5.0\ChangeAtoB_AndBgtoA.genruntimeconfig.cache
+C:\Users\romka\source\repos\_.Net__Lesson_02_Operators\ChangeAtoB_AndBgtoA\obj\Debug\net5.0\ref\ChangeAtoB_AndBgtoA.dll
