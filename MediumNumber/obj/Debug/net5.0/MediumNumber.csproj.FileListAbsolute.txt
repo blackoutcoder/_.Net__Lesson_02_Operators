@@ -1,0 +1,16 @@
+C:\Users\romka\source\repos\_.Net__Lesson_02_Operators\MediumNumber\bin\Debug\net5.0\MediumNumber.exe
+C:\Users\romka\source\repos\_.Net__Lesson_02_Operators\MediumNumber\bin\Debug\net5.0\MediumNumber.deps.json
+C:\Users\romka\source\repos\_.Net__Lesson_02_Operators\MediumNumber\bin\Debug\net5.0\MediumNumber.runtimeconfig.json
+C:\Users\romka\source\repos\_.Net__Lesson_02_Operators\MediumNumber\bin\Debug\net5.0\MediumNumber.runtimeconfig.dev.json
+C:\Users\romka\source\repos\_.Net__Lesson_02_Operators\MediumNumber\bin\Debug\net5.0\MediumNumber.dll
+C:\Users\romka\source\repos\_.Net__Lesson_02_Operators\MediumNumber\bin\Debug\net5.0\MediumNumber.pdb
+C:\Users\romka\source\repos\_.Net__Lesson_02_Operators\MediumNumber\obj\Debug\net5.0\MediumNumber.csproj.AssemblyReference.cache
+C:\Users\romka\source\repos\_.Net__Lesson_02_Operators\MediumNumber\obj\Debug\net5.0\MediumNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\romka\source\repos\_.Net__Lesson_02_Operators\MediumNumber\obj\Debug\net5.0\MediumNumber.AssemblyInfoInputs.cache
+C:\Users\romka\source\repos\_.Net__Lesson_02_Operators\MediumNumber\obj\Debug\net5.0\MediumNumber.AssemblyInfo.cs
+C:\Users\romka\source\repos\_.Net__Lesson_02_Operators\MediumNumber\obj\Debug\net5.0\MediumNumber.csproj.CoreCompileInputs.cache
+C:\Users\romka\source\repos\_.Net__Lesson_02_Operators\MediumNumber\obj\Debug\net5.0\MediumNumber.dll
+C:\Users\romka\source\repos\_.Net__Lesson_02_Operators\MediumNumber\obj\Debug\net5.0\refint\MediumNumber.dll
+C:\Users\romka\source\repos\_.Net__Lesson_02_Operators\MediumNumber\obj\Debug\net5.0\MediumNumber.pdb
+C:\Users\romka\source\repos\_.Net__Lesson_02_Operators\MediumNumber\obj\Debug\net5.0\MediumNumber.genruntimeconfig.cache
+C:\Users\romka\source\repos\_.Net__Lesson_02_Operators\MediumNumber\obj\Debug\net5.0\ref\MediumNumber.dll
