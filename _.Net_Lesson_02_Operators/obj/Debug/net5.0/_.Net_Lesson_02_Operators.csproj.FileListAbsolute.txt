@@ -1,0 +1,5 @@
+C:\Users\romka\Source\Repos\_.Net__Lesson_02_Operators\_.Net_Lesson_02_Operators\obj\Debug\net5.0\_.Net_Lesson_02_Operators.csproj.AssemblyReference.cache
+C:\Users\romka\Source\Repos\_.Net__Lesson_02_Operators\_.Net_Lesson_02_Operators\obj\Debug\net5.0\_.Net_Lesson_02_Operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\romka\Source\Repos\_.Net__Lesson_02_Operators\_.Net_Lesson_02_Operators\obj\Debug\net5.0\_.Net_Lesson_02_Operators.AssemblyInfoInputs.cache
+C:\Users\romka\Source\Repos\_.Net__Lesson_02_Operators\_.Net_Lesson_02_Operators\obj\Debug\net5.0\_.Net_Lesson_02_Operators.AssemblyInfo.cs
+C:\Users\romka\Source\Repos\_.Net__Lesson_02_Operators\_.Net_Lesson_02_Operators\obj\Debug\net5.0\_.Net_Lesson_02_Operators.csproj.CoreCompileInputs.cache

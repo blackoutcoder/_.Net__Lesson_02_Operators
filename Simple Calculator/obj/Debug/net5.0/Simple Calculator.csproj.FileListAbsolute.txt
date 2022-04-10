@@ -1,0 +1,16 @@
+C:\Users\romka\Source\Repos\_.Net__Lesson_02_Operators\Simple Calculator\obj\Debug\net5.0\Simple Calculator.csproj.AssemblyReference.cache
+C:\Users\romka\Source\Repos\_.Net__Lesson_02_Operators\Simple Calculator\obj\Debug\net5.0\Simple Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\romka\Source\Repos\_.Net__Lesson_02_Operators\Simple Calculator\obj\Debug\net5.0\Simple Calculator.AssemblyInfoInputs.cache
+C:\Users\romka\Source\Repos\_.Net__Lesson_02_Operators\Simple Calculator\obj\Debug\net5.0\Simple Calculator.AssemblyInfo.cs
+C:\Users\romka\Source\Repos\_.Net__Lesson_02_Operators\Simple Calculator\obj\Debug\net5.0\Simple Calculator.csproj.CoreCompileInputs.cache
+C:\Users\romka\source\repos\_.Net__Lesson_02_Operators\Simple Calculator\bin\Debug\net5.0\Simple Calculator.exe
+C:\Users\romka\Source\Repos\_.Net__Lesson_02_Operators\Simple Calculator\bin\Debug\net5.0\Simple Calculator.deps.json
+C:\Users\romka\Source\Repos\_.Net__Lesson_02_Operators\Simple Calculator\bin\Debug\net5.0\Simple Calculator.runtimeconfig.json
+C:\Users\romka\Source\Repos\_.Net__Lesson_02_Operators\Simple Calculator\bin\Debug\net5.0\Simple Calculator.runtimeconfig.dev.json
+C:\Users\romka\source\repos\_.Net__Lesson_02_Operators\Simple Calculator\bin\Debug\net5.0\Simple Calculator.dll
+C:\Users\romka\source\repos\_.Net__Lesson_02_Operators\Simple Calculator\bin\Debug\net5.0\Simple Calculator.pdb
+C:\Users\romka\source\repos\_.Net__Lesson_02_Operators\Simple Calculator\obj\Debug\net5.0\Simple Calculator.dll
+C:\Users\romka\source\repos\_.Net__Lesson_02_Operators\Simple Calculator\obj\Debug\net5.0\refint\Simple Calculator.dll
+C:\Users\romka\source\repos\_.Net__Lesson_02_Operators\Simple Calculator\obj\Debug\net5.0\Simple Calculator.pdb
+C:\Users\romka\Source\Repos\_.Net__Lesson_02_Operators\Simple Calculator\obj\Debug\net5.0\Simple Calculator.genruntimeconfig.cache
+C:\Users\romka\Source\Repos\_.Net__Lesson_02_Operators\Simple Calculator\obj\Debug\net5.0\ref\Simple Calculator.dll
