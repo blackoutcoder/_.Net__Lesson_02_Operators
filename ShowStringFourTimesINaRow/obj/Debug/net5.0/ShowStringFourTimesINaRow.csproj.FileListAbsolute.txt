@@ -1,0 +1,16 @@
+C:\Users\romka\source\repos\_.Net__Lesson_02_Operators\ShowStringFourTimesINaRow\bin\Debug\net5.0\ShowStringFourTimesINaRow.exe
+C:\Users\romka\source\repos\_.Net__Lesson_02_Operators\ShowStringFourTimesINaRow\bin\Debug\net5.0\ShowStringFourTimesINaRow.deps.json
+C:\Users\romka\source\repos\_.Net__Lesson_02_Operators\ShowStringFourTimesINaRow\bin\Debug\net5.0\ShowStringFourTimesINaRow.runtimeconfig.json
+C:\Users\romka\source\repos\_.Net__Lesson_02_Operators\ShowStringFourTimesINaRow\bin\Debug\net5.0\ShowStringFourTimesINaRow.runtimeconfig.dev.json
+C:\Users\romka\source\repos\_.Net__Lesson_02_Operators\ShowStringFourTimesINaRow\bin\Debug\net5.0\ShowStringFourTimesINaRow.dll
+C:\Users\romka\source\repos\_.Net__Lesson_02_Operators\ShowStringFourTimesINaRow\bin\Debug\net5.0\ShowStringFourTimesINaRow.pdb
+C:\Users\romka\source\repos\_.Net__Lesson_02_Operators\ShowStringFourTimesINaRow\obj\Debug\net5.0\ShowStringFourTimesINaRow.csproj.AssemblyReference.cache
+C:\Users\romka\source\repos\_.Net__Lesson_02_Operators\ShowStringFourTimesINaRow\obj\Debug\net5.0\ShowStringFourTimesINaRow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\romka\source\repos\_.Net__Lesson_02_Operators\ShowStringFourTimesINaRow\obj\Debug\net5.0\ShowStringFourTimesINaRow.AssemblyInfoInputs.cache
+C:\Users\romka\source\repos\_.Net__Lesson_02_Operators\ShowStringFourTimesINaRow\obj\Debug\net5.0\ShowStringFourTimesINaRow.AssemblyInfo.cs
+C:\Users\romka\source\repos\_.Net__Lesson_02_Operators\ShowStringFourTimesINaRow\obj\Debug\net5.0\ShowStringFourTimesINaRow.csproj.CoreCompileInputs.cache
+C:\Users\romka\source\repos\_.Net__Lesson_02_Operators\ShowStringFourTimesINaRow\obj\Debug\net5.0\ShowStringFourTimesINaRow.dll
+C:\Users\romka\source\repos\_.Net__Lesson_02_Operators\ShowStringFourTimesINaRow\obj\Debug\net5.0\refint\ShowStringFourTimesINaRow.dll
+C:\Users\romka\source\repos\_.Net__Lesson_02_Operators\ShowStringFourTimesINaRow\obj\Debug\net5.0\ShowStringFourTimesINaRow.pdb
+C:\Users\romka\source\repos\_.Net__Lesson_02_Operators\ShowStringFourTimesINaRow\obj\Debug\net5.0\ShowStringFourTimesINaRow.genruntimeconfig.cache
+C:\Users\romka\source\repos\_.Net__Lesson_02_Operators\ShowStringFourTimesINaRow\obj\Debug\net5.0\ref\ShowStringFourTimesINaRow.dll
